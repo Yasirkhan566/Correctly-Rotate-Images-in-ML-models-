@@ -1,16 +1,14 @@
 <h1>OpenCV Project for Differentiating Images</h1>
-
-        <h2>Introduction</h2>
-        <p>This project demonstrates how to process an image using OpenCV to detect contours, create a mask, and perform various operations on the Region of Interest (ROI). The script reads an input image, converts it to grayscale, applies adaptive thresholding, finds contours, and then processes the largest contour.</p>
-
-        <h2>Prerequisites</h2>
-        <p>Ensure you have the following packages installed:</p>
-        <ul>
+<h2>Introduction</h2>
+<p>This project demonstrates how to process an image using OpenCV to detect contours, create a mask, and perform various operations on the Region of Interest (ROI). The script reads an input image, converts it to grayscale, applies adaptive thresholding, finds contours, and then processes the largest contour.</p>
+<h2>Prerequisites</h2>
+<p>Ensure you have the following packages installed:</p>
+<ul>
             <li>numpy</li>
             <li>argparse</li>
             <li>imutils</li>
             <li>opencv-python</li>
-        </ul>
+</ul>
         <p>You can install these packages using pip:</p>
         <pre><code>pip install numpy argparse imutils opencv-python</code></pre>
 
